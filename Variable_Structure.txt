@@ -1,0 +1,12 @@
+line 1:  (x, y)         hex coord
+line 2:  5              paint clicks
+line 3:  5              click delay ms
+line 4:  1              jiggle
+line 5:  0.05           mouse speed pixel
+line 6:  0.0            mouse speed hex
+line 7:  2              hex clicks
+line 8:  10             hex click delay
+line 9:  20             hex paste delay
+line 10: 0              blur
+line 11: 51             grid width
+line 12: 39             grid height
